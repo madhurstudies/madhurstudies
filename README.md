@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+<!--     
 **madhurstudies/madhurstudies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+### 🔭 I’m currently working on ...
+![Javascript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-purple?style=for-the-badge&logo=C)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![DSA](https://img.shields.io/badge/DSA-pink?style=for-the-badge&logo=null)
+
